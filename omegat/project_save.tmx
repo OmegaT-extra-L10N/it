@@ -38,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T175951Z" creationid="valter" creationdate="20210508T175951Z">
+        <seg>Elimina il pacchetto OMT decompresso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180047Z" creationid="valter" creationdate="20210508T180047Z">
+        <seg>Eliminazione del progetto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T175937Z" creationid="valter" creationdate="20210508T175937Z">
+        <seg>Eliminare il pacchetto OMT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to overwrite it with the translation from the package ?</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T175316Z" creationid="valter" creationdate="20210508T175316Z">
@@ -222,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180016Z" creationid="valter" creationdate="20210508T180016Z">
+        <seg>Pacchetto OMT importato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180039Z" creationid="valter" creationdate="20210508T180039Z">
+        <seg>Progetto OMT compresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T081401Z" creationid="valter" creationdate="20210508T081401Z">
@@ -274,6 +314,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T174709Z" creationid="valter" creationdate="20210508T174709Z">
         <seg>Compressione del progetto come file OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180030Z" creationid="valter" creationdate="20210508T180030Z">
+        <seg>Compressione del progetto OMT...</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T175927Z" creationid="valter" creationdate="20210508T175927Z">
+        <seg>IL pacchetto è stato decompresso correttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084026Z" creationid="valter" creationdate="20210508T084026Z">
@@ -402,6 +458,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T174642Z" creationid="valter" creationdate="20210508T174642Z">
         <seg>Decompressione del progetto dal file OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180007Z" creationid="valter" creationdate="20210508T180007Z">
+        <seg>Decompressione del pacchetto OMT...</seg>
       </tuv>
     </tu>
     <tu>
