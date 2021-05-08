@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085637Z" creationid="valter" creationdate="20210508T085637Z">
+        <seg>Concordanza parziale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085623Z" creationid="valter" creationdate="20210508T085623Z">
+        <seg>Problemi delle concordanze parziali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084745Z" creationid="valter" creationdate="20210508T084745Z">
@@ -190,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085706Z" creationid="valter" creationdate="20210508T085706Z">
+        <seg>Segmento che inizia con un prefisso di concordanza parziale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083856Z" creationid="valter" creationdate="20210508T083856Z">
@@ -298,6 +322,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085526Z" creationid="valter" creationdate="20210508T085526Z">
         <seg>File XML (Okapi - filtro XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085547Z" creationid="valter" creationdate="20210508T085547Z">
+        <seg>File XML (Okapi - filtro di flusso XML </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085550Z" creationid="valter" creationdate="20210508T085550Z">
+        <seg>File YAML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
