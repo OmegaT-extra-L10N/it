@@ -126,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182156Z" creationid="valter" creationdate="20210508T182156Z">
+        <seg>Codifica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180330Z" creationid="valter" creationdate="20210508T180330Z">
         <seg>Errore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182201Z" creationid="valter" creationdate="20210508T182201Z">
+        <seg>Dimensione file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +270,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182213Z" creationid="valter" creationdate="20210508T182213Z">
+        <seg>Ultima modifica eseguita:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180300Z" creationid="valter" creationdate="20210508T180300Z">
         <seg>Numero riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182148Z" creationid="valter" creationdate="20210508T182148Z">
+        <seg>Fine riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182409Z" creationid="valter" creationdate="20210508T182409Z">
+        <seg>Riga: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +338,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083929Z" creationid="valter" creationdate="20210508T083929Z">
         <seg>Percorso mancante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182520Z" creationid="valter" creationdate="20210508T182520Z">
+        <seg>Più contrassegni in questa riga:</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182526Z" creationid="valter" creationdate="20210508T182526Z">
+        <seg>Occorrenza di "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T081401Z" creationid="valter" creationdate="20210508T081401Z">
@@ -394,6 +450,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T081423Z" creationid="valter" creationdate="20210508T081423Z">
         <seg>Opzioni filtro XLIFF Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182259Z" creationid="valter" creationdate="20210508T182259Z">
+        <seg>Vecchio Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +522,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180337Z" creationid="valter" creationdate="20210508T180321Z">
         <seg>Inserire un numero intero tra 1 e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T183050Z" creationid="valter" creationdate="20210508T183050Z">
+        <seg>Premere 'F2' per attivare il fuoco</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182352Z" creationid="valter" creationdate="20210508T182352Z">
+        <seg>Predefinito di sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084951Z" creationid="valter" creationdate="20210508T084951Z">
@@ -650,6 +730,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180415Z" creationid="valter" creationdate="20210508T180412Z">
         <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182307Z" creationid="valter" creationdate="20210508T182307Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,10 +806,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182311Z" creationid="valter" creationdate="20210508T182311Z">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085000Z" creationid="valter" creationdate="20210508T085000Z">
         <seg>File TXML Wordfast Pro (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182136Z" creationid="valter" creationdate="20210508T182136Z">
+        <seg>Parole:</seg>
       </tuv>
     </tu>
     <tu>
