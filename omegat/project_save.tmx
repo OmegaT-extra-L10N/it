@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084719Z" creationid="valter" creationdate="20210508T084719Z">
+        <seg>Annulla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084641Z" creationid="valter" creationdate="20210508T084641Z">
+        <seg>Errore durante la copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084741Z" creationid="valter" creationdate="20210508T084741Z">
+        <seg>File con commenti Doxygen (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083920Z" creationid="valter" creationdate="20210508T083920Z">
@@ -22,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084745Z" creationid="valter" creationdate="20210508T084745Z">
+        <seg>File HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084749Z" creationid="valter" creationdate="20210508T084749Z">
+        <seg>File InDesign IDML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the name of the translation unit in comments</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083542Z" creationid="valter" creationdate="20210508T083542Z">
@@ -34,6 +74,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084626Z" creationid="valter" creationdate="20210508T084626Z">
         <seg>C'è un progetto aperto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084757Z" creationid="valter" creationdate="20210508T084757Z">
+        <seg>File JSON (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +106,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084411Z" creationid="valter" creationdate="20210508T084411Z">
         <seg>Nessuna cartella del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084715Z" creationid="valter" creationdate="20210508T084715Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +154,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083750Z" creationid="valter" creationdate="20210508T083750Z">
         <seg>Mostra e proteggi le voci con translate='no' (se non impostato: esse non vengono estratte)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084710Z" creationid="valter" creationdate="20210508T084710Z">
+        <seg>Attenzione, si è verificato un problema durante la copia del file dei parametri.</seg>
       </tuv>
     </tu>
     <tu>
