@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180417Z" creationid="valter" creationdate="20210508T180417Z">
+        <seg>G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete unpacked OMT Package</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T175951Z" creationid="valter" creationdate="20210508T175951Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180047Z" creationid="valter" creationdate="20210508T180047Z">
         <seg>Eliminazione del progetto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180354Z" creationid="valter" creationdate="20210508T180354Z">
+        <seg>Direzione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180359Z" creationid="valter" creationdate="20210508T180359Z">
+        <seg>Giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084741Z" creationid="valter" creationdate="20210508T084741Z">
         <seg>File con commenti Doxygen (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180330Z" creationid="valter" creationdate="20210508T180330Z">
+        <seg>Errore</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180344Z" creationid="valter" creationdate="20210508T180344Z">
+        <seg>Trova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085637Z" creationid="valter" creationdate="20210508T085637Z">
@@ -114,6 +154,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085623Z" creationid="valter" creationdate="20210508T085623Z">
         <seg>Problemi delle concordanze parziali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180248Z" creationid="valter" creationdate="20210508T180248Z">
+        <seg>Vai alla riga</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180300Z" creationid="valter" creationdate="20210508T180300Z">
+        <seg>Numero riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084930Z" creationid="valter" creationdate="20210508T084930Z">
         <seg>File Markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180525Z" creationid="valter" creationdate="20210508T180525Z">
+        <seg>Maiuscole/minuscole</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180337Z" creationid="valter" creationdate="20210508T180321Z">
+        <seg>Inserire un numero intero tra 1 e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083826Z" creationid="valter" creationdate="20210508T083826Z">
@@ -338,6 +410,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084941Z" creationid="valter" creationdate="20210508T084941Z">
         <seg>File Qt TS (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180550Z" creationid="valter" creationdate="20210508T180550Z">
+        <seg>Espr.Reg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180349Z" creationid="valter" creationdate="20210508T180349Z">
+        <seg>Sostituisci</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180415Z" creationid="valter" creationdate="20210508T180412Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084436Z" creationid="valter" creationdate="20210508T084436Z">
@@ -470,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180408Z" creationid="valter" creationdate="20210508T180356Z">
+        <seg>Su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating current project with OMT package content</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T175036Z" creationid="valter" creationdate="20210508T175036Z">
@@ -490,6 +594,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083525Z" creationid="valter" creationdate="20210508T083525Z">
         <seg>Usa il file dei parametri di filtro seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T180531Z" creationid="valter" creationdate="20210508T180531Z">
+        <seg>Parola intera</seg>
       </tuv>
     </tu>
     <tu>
