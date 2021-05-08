@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181553Z" creationid="valter" creationdate="20210508T181553Z">
+        <seg>Aiuto al contenuto disponibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy Error</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084641Z" creationid="valter" creationdate="20210508T084641Z">
@@ -142,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181124Z" creationid="valter" creationdate="20210508T181124Z">
+        <seg>Trova cosa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181557Z" creationid="valter" creationdate="20210508T181557Z">
+        <seg>Trova:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085637Z" creationid="valter" creationdate="20210508T085637Z">
@@ -218,6 +242,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180300Z" creationid="valter" creationdate="20210508T180300Z">
         <seg>Numero riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181154Z" creationid="valter" creationdate="20210508T181154Z">
+        <seg>Contrassegna tutto</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +458,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180349Z" creationid="valter" creationdate="20210508T180349Z">
         <seg>Sostituisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181140Z" creationid="valter" creationdate="20210508T181140Z">
+        <seg>Sostituisci tutto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181136Z" creationid="valter" creationdate="20210508T181136Z">
+        <seg>Sostituisci con:</seg>
       </tuv>
     </tu>
     <tu>
