@@ -1,2 +1,3 @@
 package	pacchetto
 Properties	Propriet?
+Characters	Caratteri
