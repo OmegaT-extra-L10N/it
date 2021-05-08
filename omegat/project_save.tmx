@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181107Z" creationid="valter" creationdate="20210508T181107Z">
+        <seg>A capo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085009Z" creationid="valter" creationdate="20210508T085009Z">
