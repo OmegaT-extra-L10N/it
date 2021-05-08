@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184610Z" creationid="valter" creationdate="20210508T184610Z">
+        <seg>Copia la selezione attuale negli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184553Z" creationid="valter" creationdate="20210508T184553Z">
+        <seg>Copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy Error</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084641Z" creationid="valter" creationdate="20210508T084641Z">
