@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185223Z" creationid="valter" creationdate="20210508T185223Z">
+        <seg>Cronologia degli appunti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T181553Z" creationid="valter" creationdate="20210508T181553Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T181557Z" creationid="valter" creationdate="20210508T181557Z">
         <seg>Trova:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185533Z" creationid="valter" creationdate="20210508T185533Z">
+        <seg>Piegatura</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +866,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085454Z" creationid="valter" creationdate="20210508T085454Z">
         <seg>L'attributo della versione è mancante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185550Z" creationid="valter" creationdate="20210508T185550Z">
+        <seg>Attiva/disattiva la piegatura attuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185615Z" creationid="valter" creationdate="20210508T185615Z">
+        <seg>Attiva o disattiva la piegatura alla posizione del circonflesso.</seg>
       </tuv>
     </tu>
     <tu>
