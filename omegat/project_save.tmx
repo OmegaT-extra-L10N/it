@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083920Z" creationid="valter" creationdate="20210508T083920Z">
+        <seg>File dei parametri del filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T081608Z" creationid="valter" creationdate="20210508T081608Z">
@@ -18,6 +26,30 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083542Z" creationid="valter" creationdate="20210508T083542Z">
         <seg>Includi il nome dell'unità di traduzione nei commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083929Z" creationid="valter" creationdate="20210508T083929Z">
+        <seg>Percorso mancante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083952Z" creationid="valter" creationdate="20210508T083952Z">
+        <seg>Nessun file dei parametri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084411Z" creationid="valter" creationdate="20210508T084411Z">
+        <seg>Nessuna cartella del progetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +70,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083826Z" creationid="valter" creationdate="20210508T083826Z">
+        <seg>Proteggi le voci con state='final' (se non impostato: esse non possono essere modificate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083856Z" creationid="valter" creationdate="20210508T083856Z">
+        <seg>Seleziona un file dei parametri del filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083750Z" creationid="valter" creationdate="20210508T083750Z">
+        <seg>Mostra e proteggi le voci con translate='no' (se non impostato: esse non vengono estratte)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084026Z" creationid="valter" creationdate="20210508T084026Z">
+        <seg>Il file dei parametri non esiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T081716Z" creationid="valter" creationdate="20210508T081716Z">
@@ -50,6 +114,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083525Z" creationid="valter" creationdate="20210508T083525Z">
         <seg>Usa il file dei parametri di filtro seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083942Z" creationid="valter" creationdate="20210508T083942Z">
+        <seg>È necessario specificare un percorso.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
