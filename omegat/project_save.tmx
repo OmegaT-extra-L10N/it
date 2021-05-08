@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184909Z" creationid="valter" creationdate="20210508T184909Z">
+        <seg>Impossibile rifare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184829Z" creationid="valter" creationdate="20210508T184829Z">
+        <seg>Impossibile annullare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084719Z" creationid="valter" creationdate="20210508T084719Z">
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T182047Z" creationid="valter" creationdate="20210508T182047Z">
         <seg>Caratteri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185155Z" creationid="valter" creationdate="20210508T185155Z">
+        <seg>Scegliere quale testo incollare dal testo recente contenuto negli appunti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184613Z" creationid="valter" creationdate="20210508T184613Z">
+        <seg>Taglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180417Z" creationid="valter" creationdate="20210508T180417Z">
         <seg>G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184644Z" creationid="valter" creationdate="20210508T184644Z">
+        <seg>Elimina</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,10 +566,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184657Z" creationid="valter" creationdate="20210508T184657Z">
+        <seg>Incolla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184933Z" creationid="valter" creationdate="20210508T184933Z">
+        <seg>Incolla dalla cronologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T182035Z" creationid="valter" creationdate="20210508T182035Z">
         <seg>Percorso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184731Z" creationid="valter" creationdate="20210508T184731Z">
+        <seg>Inserisce il testo contenuto negli appunti nella posizione attuale all'interno del file di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,10 +638,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184923Z" creationid="valter" creationdate="20210508T184923Z">
+        <seg>Riapplica l'ultima azione annullata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184902Z" creationid="valter" creationdate="20210508T184902Z">
+        <seg>Rifai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180550Z" creationid="valter" creationdate="20210508T180550Z">
         <seg>Espr.Reg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184635Z" creationid="valter" creationdate="20210508T184635Z">
+        <seg>Rimuove la selezione attuale e la inserisce negli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184653Z" creationid="valter" creationdate="20210508T184653Z">
+        <seg>Rimuove la selezione attuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184737Z" creationid="valter" creationdate="20210508T184737Z">
+        <seg>Seleziona tutto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083856Z" creationid="valter" creationdate="20210508T083856Z">
@@ -650,6 +754,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T174839Z" creationid="valter" creationdate="20210508T174839Z">
         <seg>Selezionare il pacchetto OMT da importare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184757Z" creationid="valter" creationdate="20210508T184757Z">
+        <seg>Seleziona tutto il testo nel documento di testo attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +810,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084951Z" creationid="valter" creationdate="20210508T084951Z">
         <seg>File TTX TagEditor (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184858Z" creationid="valter" creationdate="20210508T184858Z">
+        <seg>Ripristina l'ultima azione eseguita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +882,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084436Z" creationid="valter" creationdate="20210508T084436Z">
         <seg>Impossibile determinare la cartella del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T184805Z" creationid="valter" creationdate="20210508T184805Z">
+        <seg>Annulla</seg>
       </tuv>
     </tu>
     <tu>
