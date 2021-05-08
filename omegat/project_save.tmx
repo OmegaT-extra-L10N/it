@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085506Z" creationid="valter" creationdate="20210508T085506Z">
+        <seg>Nessun elemento &lt;xliff&gt; trovato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Parameters File</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083952Z" creationid="valter" creationdate="20210508T083952Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084411Z" creationid="valter" creationdate="20210508T084411Z">
         <seg>Nessuna cartella del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085515Z" creationid="valter" creationdate="20210508T085515Z">
+        <seg>Nessun elemento nel file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085454Z" creationid="valter" creationdate="20210508T085454Z">
+        <seg>L'attributo della versione è mancante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transifex project files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085006Z" creationid="valter" creationdate="20210508T085006Z">
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T085014Z" creationid="valter" creationdate="20210508T085014Z">
         <seg>File XLIFF-2 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T085526Z" creationid="valter" creationdate="20210508T085526Z">
+        <seg>File XML (Okapi - filtro XML)</seg>
       </tuv>
     </tu>
     <tu>
