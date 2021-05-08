@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T081608Z" creationid="valter" creationdate="20210508T081608Z">
+        <seg>Le impostazioni del filtro sono attualmente &lt;b&gt;specifiche per progetto&lt;/b&gt;.&lt;br&gt;Di conseguente, una volta fatto clic su "OK" il file dei parametri verrà copiato in questa posizione:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi Filter Options</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T081401Z" creationid="valter" creationdate="20210508T081401Z">
+        <seg>Opzioni filtro Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T081423Z" creationid="valter" creationdate="20210508T081423Z">
+        <seg>Opzioni filtro XLIFF Okapi</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
