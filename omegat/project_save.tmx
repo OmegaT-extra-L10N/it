@@ -28,6 +28,22 @@
         <seg>Opzioni filtro XLIFF Okapi</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T081716Z" creationid="valter" creationdate="20210508T081716Z">
+        <seg>Usa le impostazione del filtro predefinite (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083525Z" creationid="valter" creationdate="20210508T083525Z">
+        <seg>Usa il file dei parametri di filtro seguente:</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
