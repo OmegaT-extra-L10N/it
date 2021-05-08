@@ -62,6 +62,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185837Z" creationid="valter" creationdate="20210508T185652Z">
+        <seg>Comprimi tutti i commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185814Z" creationid="valter" creationdate="20210508T185628Z">
+        <seg>Comprimi tutte le piegature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185843Z" creationid="valter" creationdate="20210508T185705Z">
+        <seg>Comprime tutte le piegature dei commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185824Z" creationid="valter" creationdate="20210508T185640Z">
+        <seg>Comprime tutte le piegature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T181553Z" creationid="valter" creationdate="20210508T181553Z">
@@ -202,6 +234,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180330Z" creationid="valter" creationdate="20210508T180330Z">
         <seg>Errore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185759Z" creationid="valter" creationdate="20210508T185759Z">
+        <seg>Espandi tutte le piegature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T185806Z" creationid="valter" creationdate="20210508T185806Z">
+        <seg>Espande tutte le piegature.</seg>
       </tuv>
     </tu>
     <tu>
