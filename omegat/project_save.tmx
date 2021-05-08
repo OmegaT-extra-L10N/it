@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T083542Z" creationid="valter" creationdate="20210508T083542Z">
+        <seg>Includi il nome dell'unità di traduzione nei commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T081401Z" creationid="valter" creationdate="20210508T081401Z">
