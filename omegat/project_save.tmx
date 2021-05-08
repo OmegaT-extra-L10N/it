@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T175007Z" creationid="valter" creationdate="20210508T175007Z">
+        <seg>Pacchetto OMT non valido, il file "omegat.project" è mancante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is there an open project?</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084626Z" creationid="valter" creationdate="20210508T084626Z">
@@ -158,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T174938Z" creationid="valter" creationdate="20210508T174938Z">
+        <seg>File del pacchetto OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T081401Z" creationid="valter" creationdate="20210508T081401Z">
@@ -178,6 +194,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084933Z" creationid="valter" creationdate="20210508T084933Z">
         <seg>File OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T174746Z" creationid="valter" creationdate="20210508T174746Z">
+        <seg>Compressione ed eliminazione del progetto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T174709Z" creationid="valter" creationdate="20210508T174709Z">
+        <seg>Compressione del progetto come file OMT...</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +250,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083856Z" creationid="valter" creationdate="20210508T083856Z">
         <seg>Seleziona un file dei parametri del filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T174916Z" creationid="valter" creationdate="20210508T174916Z">
+        <seg>Selezionare la posizione e il nome del pacchetto OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T174839Z" creationid="valter" creationdate="20210508T174839Z">
+        <seg>Selezionare il pacchetto OMT da importare</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +322,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084436Z" creationid="valter" creationdate="20210508T084436Z">
         <seg>Impossibile determinare la cartella del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T174642Z" creationid="valter" creationdate="20210508T174642Z">
+        <seg>Decompressione del progetto dal file OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T175036Z" creationid="valter" creationdate="20210508T175036Z">
+        <seg>Aggiornamento del progetto attuale col contenuto del pacchetto OMT</seg>
       </tuv>
     </tu>
     <tu>
