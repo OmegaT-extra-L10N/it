@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084626Z" creationid="valter" creationdate="20210508T084626Z">
+        <seg>C'è un progetto aperto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing Path</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T083929Z" creationid="valter" creationdate="20210508T083929Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084026Z" creationid="valter" creationdate="20210508T084026Z">
         <seg>Il file dei parametri non esiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T084436Z" creationid="valter" creationdate="20210508T084436Z">
+        <seg>Impossibile determinare la cartella del progetto.</seg>
       </tuv>
     </tu>
     <tu>
