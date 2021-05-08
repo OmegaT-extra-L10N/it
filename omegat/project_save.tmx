@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182047Z" creationid="valter" creationdate="20210508T182047Z">
+        <seg>Caratteri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T181553Z" creationid="valter" creationdate="20210508T181553Z">
@@ -150,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181729Z" creationid="valter" creationdate="20210508T181729Z">
+        <seg>Trova prec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find what:</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T181124Z" creationid="valter" creationdate="20210508T181124Z">
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180300Z" creationid="valter" creationdate="20210508T180300Z">
         <seg>Numero riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182038Z" creationid="valter" creationdate="20210508T182038Z">
+        <seg>Righe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +446,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182035Z" creationid="valter" creationdate="20210508T182035Z">
+        <seg>Percorso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T180337Z" creationid="valter" creationdate="20210508T180321Z">
         <seg>Inserire un numero intero tra 1 e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T182031Z" creationid="valter" creationdate="20210508T182031Z">
+        <seg>Proprietà: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181934Z" creationid="valter" creationdate="20210508T181934Z">
+        <seg>Sostituisci:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T084937Z" creationid="valter" creationdate="20210508T084937Z">
@@ -514,6 +562,22 @@
       </tuv>
       <tuv lang="it" changeid="valter" changedate="20210508T174839Z" creationid="valter" creationdate="20210508T174839Z">
         <seg>Selezionare il pacchetto OMT da importare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181926Z" creationid="valter" creationdate="20210508T181926Z">
+        <seg>Maiusc+Invio esegue una sostituzione all'indietro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="it" changeid="valter" changedate="20210508T181719Z" creationid="valter" creationdate="20210508T181719Z">
+        <seg>Maiusc+Invio esegue una ricerca all'indietro</seg>
       </tuv>
     </tu>
     <tu>
